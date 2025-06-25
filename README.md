@@ -1,5 +1,5 @@
+<h3 align="center"><img src="https://github.com/user-attachments/assets/05da065d-d0ae-4e6d-afaf-18eab8f8ac5f" width="300" alt="soukaina-ak" /></h3>
 
-<img src="https://github.com/user-attachments/assets/05da065d-d0ae-4e6d-afaf-18eab8f8ac5f" width="250" alt="soukaina-ak" />
 <h3 align="center">A passionate full stack developer from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soukaina-ak&label=Profile%20views&color=0e75b6&style=flat" alt="soukaina-ak" /> </p>
