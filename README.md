@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm soukaina akaroum</h1>
 <h3 align="center">A passionate full stack developer from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soukaina-ak&label=Profile%20views&color=0e75b6&style=flat" alt="soukaina-ak" /> </p>
