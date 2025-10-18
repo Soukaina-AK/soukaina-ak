@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soukaina-ak&label=Profile%20views&color=0e75b6&style=flat" alt="soukaina-ak" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://soukaina-portfolio.vercel.app/projects](https://soukaina-portfolio.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://soukaina-akaroum.vercel.app/projects](https://soukaina-akaroum.vercel.app/projects)
 
 - 💬 Ask me about **React, node.js, Laravel**
 
